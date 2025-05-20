@@ -1,0 +1,8 @@
+**pycache**/
+*.verbose.log
+*.log
+*.csv
+*.json
+*.DS_Store
+*.zip
+*.gz
